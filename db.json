@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "text": "dasdas",
+      "id": "83acd479-1c04-455b-a9c7-197d71164cf6",
+      "completed": false
+    }
+  ],
+  "user": [
+    {
+      "username": "sa",
+      "password": "masterkey",
+      "loggedIn": false
+    }
+  ]
+}
